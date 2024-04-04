@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GaurabCodeLab/MUI-Cake-Shop/static/css/main.e6c13ad2.css",
+    "main.js": "/GaurabCodeLab/MUI-Cake-Shop/static/js/main.23ab0095.js",
+    "static/js/453.4d1e5ba5.chunk.js": "/GaurabCodeLab/MUI-Cake-Shop/static/js/453.4d1e5ba5.chunk.js",
+    "static/media/cake.png": "/GaurabCodeLab/MUI-Cake-Shop/static/media/cake.c9fbc8d7783425e4dba7.png",
+    "index.html": "/GaurabCodeLab/MUI-Cake-Shop/index.html",
+    "main.e6c13ad2.css.map": "/GaurabCodeLab/MUI-Cake-Shop/static/css/main.e6c13ad2.css.map",
+    "main.23ab0095.js.map": "/GaurabCodeLab/MUI-Cake-Shop/static/js/main.23ab0095.js.map",
+    "453.4d1e5ba5.chunk.js.map": "/GaurabCodeLab/MUI-Cake-Shop/static/js/453.4d1e5ba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.23ab0095.js"
+  ]
+}
